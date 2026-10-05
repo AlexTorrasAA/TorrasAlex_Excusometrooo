@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     margin: 0;
-    background-color: lightblue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua (103, 93, 246);
+    font-family: "Roboto", sans-serif;
     color: #222;
 }
 
@@ -20,7 +22,7 @@ p {
 
 header p {
     font-size: 1.1rem;
-
+    font-weight: bold;
 }
 
 header {
@@ -39,6 +41,10 @@ section {
     background-color: ghostwhite;
     padding: 20px;
     margin: 20px;
+}
+
+.Passos {
+    background-color: aquamarine;
 }
 
 footer {
